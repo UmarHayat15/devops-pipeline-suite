@@ -4,7 +4,7 @@ Welcome to the DevOps Pipeline Suite repository. This project is designed to aut
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction](#ntroduction)
 2. [Setup and Provisioning](#setup-and-provisioning)
 3. [Configuration Management](#configuration-management)
 4. [CI/CD Pipeline](#cicd-pipeline)
@@ -12,7 +12,7 @@ Welcome to the DevOps Pipeline Suite repository. This project is designed to aut
 6. [Containerization and Orchestration](#containerization-and-orchestration)
 7. [Monitoring and Alerts](#monitoring-and-alerts)
 8. [Contributing](#contributing)
-9. [License](#license)
+9. [Output](#output)
 
 ## Introduction
 
@@ -106,9 +106,6 @@ We welcome contributions from the community. If you want to contribute to this p
 # Output
 ![Pipeline Overview](output/pipeline.jpeg)
 ![Monitoring Dashboard](output/grafana.jpeg)
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
